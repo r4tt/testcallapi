@@ -1,0 +1,4 @@
+#Mon Apr 18 23:42:51 ICT 2022
+base.0=D\:\\New folder (2)\\code\\mobi\\testcallapi\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
